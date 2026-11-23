@@ -15,7 +15,7 @@
 
 <!-- ===================== SOCIAL LINKS ===================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-kumar-yadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/aditya-yadav-43442b323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://github.com/aditya-kumar-yadav" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
@@ -104,7 +104,7 @@ Open to collaborations, open-source systems engineering, and challenging problem
 <p align="center">
   <a href="mailto:adityayadav.official@outlook.com"><img src="https://img.shields.io/badge/Email-adityayadav.official%40outlook.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/aditya-kumar-yadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/aditya-yadav-43442b323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://github.com/aditya-kumar-yadav" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
